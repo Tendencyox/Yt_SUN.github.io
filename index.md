@@ -1,5 +1,5 @@
 ## Sun Yuteng Homepage 
-# 孙宇腾
+### 孙宇腾
 
-I am now a research assistang in IMCL PolyU. I graduated from Nanjing U of Aeronautics and Astronautics and got bachelor of Engineering degree in 2020.
-
+I am now a research assistang in IMCL PolyU. My supervisor is Prof. Cao Jiannong.
+I graduated from Nanjing U of Aeronautics and Astronautics and got bachelor of Engineering degree in 2020.
